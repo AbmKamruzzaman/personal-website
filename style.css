@@ -1,0 +1,96 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+   
+
+}
+.half-width img{
+    width: 100%;
+   
+}
+.name{
+    color: red;
+    font-size: 50px;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-top: 100px;
+    
+
+
+}
+.link-button{
+    text-decoration: none;
+    background: red;
+    padding: 10px 20px;
+    color: white;
+    width: 700;
+    border-radius: 5px;
+    
+}
+section{
+    height: 800px;
+    
+}
+.second-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.more-padding{
+    margin-left: 120PX;
+    padding-top: 120px;
+}
+.anather-more-padding{
+    padding-top: 200px;
+}
+.work-pic{
+    width: 30%;
+    float: left;
+    padding-left: 3%;
+}
+.work-pic img{
+    width: 100%;
+}
+.headline{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+   
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.client-feedback{
+    text-align: center;
+}
+.contact{
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 5px;
+    color: white;
+}
+span{
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.client-feedback{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+    padding-bottom: 40px;
+}
